@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **full stack web technologies**
 
-- 🌱 I’m currently learning : **Dart, SQL, NodeJS, ReactJS, PHP**
+- 🌱 I’m currently learning : **SQL, NodeJS, ReactJS, PHP**
 
 - 🥅 Goals for 2022: **Contributing to Open Source Projects and learning new Technologies**
 
