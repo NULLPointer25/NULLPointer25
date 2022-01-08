@@ -20,6 +20,9 @@
 - ⚡ Fun fact : **I Love Riding Bikes and Swimming**
 
 - 📫 How to reach me: **pratikmishra8268@gmail.com**
+
+<a href="https://app.daily.dev/usebastian12"><img src="https://api.daily.dev/devcards/9f17b83d6f754ee293c17e9ccb02cca7.png?r=exg" width="400" alt="Pratik's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PratikM25022001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PratikM25022001" height="30" width="40" /></a>
