@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Pratik Mishra</h1>
 <h3 align="center">I'm an aspiring Full Stack Web Developer. I love to build scalable web application and want to learn more new Tech Stacks. You can check out my projects and blogs below and connect with me on social media.</h3>
 
+<h3 align="center">I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
+
 <div align='center'>
 
 [![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://pratikmishra-portfolio.netlify.app)
