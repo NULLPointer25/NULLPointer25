@@ -13,7 +13,7 @@
 
 - 🥅 Goals for 2022: **Contributing to Open Source Projects and learning new Technologies**
 
-- 💬 Ask me about anything, I am happy to help.3
+- 💬 Ask me about anything, I am happy to help.
 
 - 😄 Pronouns: **Shivam**
 
