@@ -7,7 +7,7 @@
 
 </div>
 
-- 🔭 I’m currently working on **full stack web technologies**
+- 🔭 I’m currently working on **Full Stack Web Technologies**
 
 - 🌱 I’m currently learning : **SQL, NodeJS, ReactJS, PHP**
 
