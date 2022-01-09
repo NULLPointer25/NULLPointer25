@@ -44,8 +44,7 @@
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NULLPointer25&show_icons=true&theme=dark&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=NULLPointer25&show_icons=true&theme=dark&locale=en&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NULLPointer25&show_icons=true&theme=dark&locale=en&layout=compact)]
 ## GITHUB STREAK STATS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NULLPointer25)
