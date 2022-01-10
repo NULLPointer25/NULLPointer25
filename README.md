@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://pratikmishra-portfolio.netlify.app)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green)target="_blank"](https://pratikmishra-portfolio.netlify.app)
 
 </div>
 
