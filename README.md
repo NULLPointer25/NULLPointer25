@@ -9,15 +9,15 @@
 
 </div>
 
-- 🔭 I’m currently working on **Full Stack Web Technologies**
+- 🔭 I’m currently working at **TATA Consultancy Services**
 
-- 🌱 I’m currently learning : **SQL, NodeJS, ReactJS, PHP**
+- 🌱 TechStacks : **SQL, Talend, Data Warehouse, ETL, ReactJS, JavaScript**
 
 - 🥅 Goals for 2022: **Contributing to Open Source Projects and learning new Technologies**
 
 - 💬 Ask me about **Anything, I am happy to help.**
 
-- 😄 Pronouns: **Shivam**
+- 😄 Pronouns: **Mishra Ji**
 
 - ⚡ Fun fact : **I Love Riding Bikes and Swimming**
 
