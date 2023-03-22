@@ -13,7 +13,7 @@
 
 - 🌱 TechStacks : **SQL, Talend, Data Warehouse, ETL, ReactJS, JavaScript**
 
-- 🥅 Goals for 2022: **Contributing to Open Source Projects and learning new Technologies**
+- 🥅 Goals for 2024: **Contributing to Open Source Projects and learning new Technologies**
 
 - 💬 Ask me about **Anything, I am happy to help.**
 
