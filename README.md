@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Pratik Mishra</h1>
-<h3 align="center">I'm an aspiring Full Stack Web Developer & a MBA Grad. I love to build scalable web application and want to learn more new Tech Stacks. You can check out my projects and blogs below and connect with me on social media.</h3>
+<h3 align="center">I’m currently working at TATA Consultancy Services & a MBA Grad. I love to build scalable web application for Freelancing also I am a Data Engineer and want to learn more new Tech Stacks. You can check out my projects and blogs below and connect with me on social media.</h3>
 
 <h3 align="center">I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PratikM25022001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PratikM25022001" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pratik-awadhesh-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-awadhesh-mishra" height="30" width="40" /></a> <a href="https://www.instagram.com/null.pointerr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="null.pointerr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratik-awadhesh-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-awadhesh-mishra" height="30" width="40" /></a> <a href="https://www.instagram.com/mishraaa_ji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="null.pointerr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I Use:</h3>
